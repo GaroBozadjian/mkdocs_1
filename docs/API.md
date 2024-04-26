@@ -1,7 +1,6 @@
-## Calculator
+## API
 This the module that contians:
 
-* Add
 * Sub
 
-::: calculator.main
+::: API.sub
