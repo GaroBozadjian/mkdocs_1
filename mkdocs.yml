@@ -1,4 +1,4 @@
-site_name: Hello Package
+site_name: Calculator
 
 nav:
   - Home: index.md
