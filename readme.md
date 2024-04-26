@@ -36,4 +36,8 @@ mkdocs new .
 ```bash
 mkdocs serve
 ```
+8. Build the mkdocs:
+```bash
+mkdocs build
+```
 
